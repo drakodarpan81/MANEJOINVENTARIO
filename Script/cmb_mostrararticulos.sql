@@ -20,6 +20,7 @@ $$
 					FROM tb_articulosalmacen AS a
 					JOIN tb_categorias AS b ON (a.numero_categoria_id = b.id)
 					WHERE a.status = 0 
+					ORDER BY b.numero_categoria, a.folio_articulo
 		LOOP
 			RETURN NEXT reg;
 		END LOOP;
