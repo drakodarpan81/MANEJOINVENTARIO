@@ -7,12 +7,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MANEJOINVENTARIO", "MANEJOI
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{CD5BD2DD-3679-4F08-9656-1FBA6C017D18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CD5BD2DD-3679-4F08-9656-1FBA6C017D18}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD5BD2DD-3679-4F08-9656-1FBA6C017D18}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD5BD2DD-3679-4F08-9656-1FBA6C017D18}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection

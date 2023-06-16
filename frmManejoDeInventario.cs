@@ -35,7 +35,7 @@ namespace MANEJOINVENTARIO
             switch (ep.Opcion)
             {
                 case 0:
-                    lblTitulo.Text = "INGRESO AL ALMACEN";
+                    lblTitulo.Text = "ENTRADA AL ALMACEN";
                     sTitulo = "INGRESO AL ALMACEN";
                     cmbArticulosAlmacen.Select();
                     break;

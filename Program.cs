@@ -8,6 +8,7 @@ using System.Windows.Forms;
 
 namespace MANEJOINVENTARIO
 {
+/*
     internal static class Program
     {
         /// <summary>
@@ -29,4 +30,5 @@ namespace MANEJOINVENTARIO
             Application.Run(new frmManejoDeInventario(ep));
         }
     }
+*/
 }
